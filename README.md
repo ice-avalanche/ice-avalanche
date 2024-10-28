@@ -9,15 +9,14 @@
 <h3 align="left">About me</h3>
 
 - 🔭 Currently working on apps for science purposes and DS/ML projects
-  
 - 🌱 Learning Tensorflow, Keras, PyTorch
-  
 - 🗣️ Giving lectures on approaches to digitalization in mining
-  
 - 💬 Feel free to ask me about digital innovations in mining
-  
 - 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theyear1703)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/741368982023438406)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ice_avalanche/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/ice_avalanche)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iceavalanche)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/snowstormmm)
